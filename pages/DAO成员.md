@@ -1,2 +1,6 @@
+- 规则： 无歧义情况下直接用username和nickname即可。如果需要消除歧义，可以考虑[[DAO成员｜sky]]这种格式
 - [[小岛美奈子]]
+- [[Xiaotiandada]]
+- [[Garfield550]]
+- [[WhyYouAre]]
 -
