@@ -16,6 +16,11 @@
 		  drwxr-xr-x 3 root root   27 Apr 13  2021 textures
 		  ubuntu@ip-172-31-93-51:/snap/minetest/current/share/minetest$ 
 		  ```
-	- [[Garfield550]]的验证
-		- snap 装的 minetest 只能访问 snap 沙盒里的文件，然后 minetest 的 cwd 是 snap/minetest/current。
-		  我把 /home/minetest/.minetest 做了个软链接。ln -sv .minetest snap/minetest/current
+		- [[Garfield550]]的验证
+			- snap 装的 minetest 只能访问 snap 沙盒里的文件，然后 minetest 的 cwd 是 snap/minetest/current。
+			  我把 /home/minetest/.minetest 做了个软链接。ln -sv .minetest snap/minetest/current
+	- Ubuntu下通过下载安装包安装的样子
+		- [[WhyYouAre]]的验证
+			- 从 https://downloads.minetest.org/ 找到
+			-
+		-
