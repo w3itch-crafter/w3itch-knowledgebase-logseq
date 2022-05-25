@@ -1,0 +1,9 @@
+- #Minetest #W3itch
+- address: api.w3itch.io
+- port: 30000
+- 服务端环境
+	- Mod
+		- ((628dee11-6c2c-4a6c-bb8c-7b5da2e1819d))
+- web client
+	- [[Minetest WASM]]
+		- https://mt.kuso.io/minetest/?address=api.w3itch.io&name=changeme
