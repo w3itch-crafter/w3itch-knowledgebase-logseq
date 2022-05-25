@@ -3,4 +3,12 @@
 - Wiki:  https://wiki.minetest.net/
 - [[ContentDB]]
 - [[Minetest WASM]]
--
+- 安装
+	- Ubuntu
+		- https://www.minetest.net/downloads/
+			- 默认源的版本比较老，可以尝试SNAP，但是terminal就不可用
+		- Ubuntu PPA
+			- https://launchpad.net/~minetestdevs/+archive/ubuntu/stable
+		- CICD
+			- https://gitlab.com/minetest/minetest/-/pipelines
+			-
