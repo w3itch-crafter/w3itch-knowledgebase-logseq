@@ -1,0 +1,15 @@
+- 我们的探索
+	- 关于wasm版mod的处理方式
+		- https://discord.com/channels/964432790433189920/971305162461306940/977339161948328016
+		- https://github.com/paradust7/minetest-wasm/issues/5
+		- 也参考请 [[Minetest目录结构]]来对应理解build的时候mod所在的位置
+			- https://github.com/paradust7/minetest/tree/master/mods
+		- 在[[ContentDB]]里也有提到如何安装Mod，目录结构都可以对应着看
+		- [[Minetest Mod]]
+		-
+	-
+	- 关于socket连接
+		- https://github.com/paradust7/minetest-wasm/issues/6
+			- 用了一个代理帮忙，从webscoket到minetet本身的socket机制
+			- 作者调整了策略，协议格式正确就帮忙转发
+		- https://github.com/paradust7/minetest-wasm/issues/7
